@@ -1,0 +1,23 @@
+Bag-of-Words Logistic Regression:
+Accuracy: 0.970048309178744
+Precision: 0.9724501758499414
+Recall: 0.9730205278592375
+F1-Score: 0.9727352682497801
+Balanced Accuracy: 0.9697245496439044
+
+TF-IDF Logistic Regression:
+Accuracy: 0.966183574879227
+Precision: 0.9728132387706856
+Recall: 0.9653958944281525
+F1-Score: 0.9690903738592876
+Balanced Accuracy: 0.9662693757855049
+
+Best C Value: 10
+Best Balanced Accuracy on Validation Set: 0.9707205697528278
+
+Hyperparameter Tuning for Logistic Regression:
+Accuracy: 0.973172734738571
+Precision: 0.9781392984239959
+Recall: 0.9722081859525012
+F1-Score: 0.9751647237709072
+Balanced Accuracy: 0.9732606043263103
